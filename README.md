@@ -19,8 +19,6 @@ Profissional com nove anos de experiência em gestão de pessoas, processos e da
 
 O trabalho sempre ficou na mesma interseção: organizar o que estava desorganizado, treinar quem precisava ser treinado, medir o que importava e sustentar as mudanças até virarem rotina.
 
-Em transição para posições de **People Analytics**, **Desenvolvimento Organizacional**, **Gestão da Mudança** e **Processos de RH** no setor privado.
-
 ---
 
 ### Stack & Ferramentas
@@ -80,19 +78,17 @@ Raiza Pinho · Data that speaks about people
 
 ### About
 
-Professional with nine years of experience in people management, processes and data in large-scale organizations. Career built from the ground up — from coordinating teams of up to 91 employees and managing HR operations of a unit, to the central level of Rio de Janeiro's Municipal Health Secretariat, where she currently structures indicators and dashboards for a network of 54 health units.
+Professional with nine years of experience in people management, processes and data in large-scale organizations. Career built from the ground up, from coordinating teams of up to 91 employees and managing HR operations of a unit, to the central level of Rio de Janeiro's Municipal Health Secretariat, where she currently structures indicators and dashboards for a network of 54 health units.
 
 The work has always been at the same intersection: organizing what was disorganized, training those who needed training, measuring what mattered, and sustaining changes until they became routine.
-
-Currently transitioning to roles in **People Analytics**, **Organizational Development**, **Change Management** and **HR Processes** in the private sector.
 
 ---
 
 ### Stack & Tools
 
 ```
-Data         →  Advanced Excel · Power BI (in progress) · SQL · TabNet/DATASUS
-Sources      →  SIH/SUS · SIA/SUS · SISREG · CNES · Electronic Health Records
+Data         →  Advanced Excel · Power BI · TabNet/DATASUS
+Sources      →  SIH/SUS · SIA/SUS · SISREG · CNES
 Publishing   →  GitHub Pages · HTML · CSS
 Management   →  Lean Six Sigma Yellow Belt · KPI Management · SOPs
 ```
