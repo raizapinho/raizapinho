@@ -15,7 +15,7 @@ Raiza Pinho · Dados que falam de gente
 
 ### Sobre
 
-Profissional com nove anos de experiência em gestão de pessoas, processos e dados em organizações de grande porte. Trajetória construída dentro da operação — da coordenação de equipes de até 91 colaboradores e gestão de RH de uma unidade, até o nível central da Secretaria Municipal de Saúde do Rio de Janeiro, onde hoje estrutura indicadores e painéis para uma rede de 54 unidades.
+Profissional com nove anos de experiência em gestão de pessoas, processos e dados em organizações de grande porte. Trajetória construída dentro da operação, da coordenação de equipes de até 91 colaboradores e gestão de RH de uma unidade, até o nível central da Secretaria Municipal de Saúde do Rio de Janeiro, onde hoje estrutura indicadores e painéis para uma rede de 54 unidades.
 
 O trabalho sempre ficou na mesma interseção: organizar o que estava desorganizado, treinar quem precisava ser treinado, medir o que importava e sustentar as mudanças até virarem rotina.
 
