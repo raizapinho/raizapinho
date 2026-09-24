@@ -26,8 +26,8 @@ Em transição para posições de **People Analytics**, **Desenvolvimento Organi
 ### Stack & Ferramentas
 
 ```
-Dados        →  Excel Avançado · Power BI (em desenvolvimento) · SQL · TabNet/DATASUS
-Fontes       →  SIH/SUS · SIA/SUS · SISREG · CNES · Prontuário Eletrônico
+Dados        →  Excel Avançado · Power BI · TabNet/DATASUS
+Fontes       →  SIH/SUS · SIA/SUS · SISREG · CNES
 Publicação   →  GitHub Pages · HTML · CSS
 Gestão       →  Lean Six Sigma Yellow Belt · Gestão por Indicadores · POPs
 ```
