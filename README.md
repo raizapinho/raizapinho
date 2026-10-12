@@ -60,10 +60,3 @@ Técnico        →  Administração · SENAC RJ · 2016
 <div align="center">
 <sub><code>Raiza Pinho · Dados que falam de gente</code></sub>
 </div>
-> `🔜` Under preparation for public release
-
----
-
-<div align="center">
-<sub><code>Raiza Pinho · Data that speaks about people</code></sub>
-</div>
