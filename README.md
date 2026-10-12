@@ -67,43 +67,6 @@ Técnico        →  Administração · SENAC RJ · 2016
 <div align="center">
 
 ```
-Raiza Pinho · Data that speaks about people
-```
-
-**People Analytics · Change Management · Organizational Development**
-
-</div>
-
----
-
-### About
-
-Professional with nine years of experience in people management, processes and data in large-scale organizations. Career built from the ground up, from coordinating teams of up to 91 employees and managing HR operations of a unit, to the central level of Rio de Janeiro's Municipal Health Secretariat, where she currently structures indicators and dashboards for a network of 54 health units.
-
-The work has always been at the same intersection: organizing what was disorganized, training those who needed training, measuring what mattered, and sustaining changes until they became routine.
-
----
-
-### Stack & Tools
-
-```
-Data         →  Advanced Excel · Power BI · TabNet/DATASUS
-Sources      →  SIH/SUS · SIA/SUS · SISREG · CNES
-Publishing   →  GitHub Pages · HTML · CSS
-Management   →  Lean Six Sigma Yellow Belt · KPI Management · SOPs
-```
-
----
-
-### Public Data Projects
-
-> Dashboards built with public SUS data (TabNet/DATASUS), with no exposure of sensitive patient data.
-
-| Dashboard | Source | Description |
-|-----------|--------|-------------|
-| 🔜 People Analytics — Absenteeism | TabNet | Sick leave analysis by department and health plan usage |
-| 🔜 External Causes — Hospital Network | SIH/SUS | Admissions, mortality and billing by period |
-| 🔜 Outpatient Regulation | SISREG | Queues, supply and procedure completion |
 
 > `🔜` Under preparation for public release
 
