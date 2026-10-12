@@ -60,14 +60,6 @@ Técnico        →  Administração · SENAC RJ · 2016
 <div align="center">
 <sub><code>Raiza Pinho · Dados que falam de gente</code></sub>
 </div>
-
----
----
-
-<div align="center">
-
-```
-
 > `🔜` Under preparation for public release
 
 ---
